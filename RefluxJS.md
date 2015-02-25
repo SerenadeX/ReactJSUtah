@@ -12,7 +12,7 @@
 - Searches across all the data
 - UI SQL sort of.  Asks for selectors.
 
-### John Lindquist
+### [John Lindquist](http://egghead.io)
 
 #### RefluxJS
 
@@ -22,4 +22,4 @@
 - Other examples at https://github.com/johnlindquist/reflux-examples
 
 
-Mentioned [Star Wars API](http://swapi.co)
+Mentioned [Star Wars API](http://swapi.co) and [Axios](https://github.com/mzabriskie/axios)
