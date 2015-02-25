@@ -20,3 +20,6 @@
 
 - Checkout Hacker News Clone to see a really good example.
 - Other examples at https://github.com/johnlindquist/reflux-examples
+
+
+Mentioned [Star Wars API](http://swapi.co)
