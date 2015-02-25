@@ -1,0 +1,6 @@
+[submodule "react-structured-filter"]
+	path = react-structured-filter
+	url = https://github.com/SummitRoute/react-structured-filter
+[submodule "refluxjs"]
+	path = refluxjs
+	url = https://github.com/spoike/refluxjs

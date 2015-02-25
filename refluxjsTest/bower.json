@@ -1,0 +1,20 @@
+{
+  "name": "refluxjsTest",
+  "version": "0.0.0",
+  "homepage": "https://github.com/SerenadeX/ReactJSUtah",
+  "authors": [
+    "Rhett Rogers <serenade.xs@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.12.2",
+    "reflux": "~0.2.5"
+  }
+}
